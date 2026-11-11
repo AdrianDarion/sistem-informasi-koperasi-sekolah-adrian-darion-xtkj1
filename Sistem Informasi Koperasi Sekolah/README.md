@@ -1,6 +1,6 @@
 # Sistem Informasi Koperasi Sekolah
 
-Project CRUD PHP Native + MySQL dengan pola folder yang dipisah seperti referensi BukuKita.
+Project CRUD PHP Native + MySQL 
 
 ## Fitur
 
